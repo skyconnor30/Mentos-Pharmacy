@@ -15,7 +15,7 @@
                     <h3 class="footer-heading mb-4">Contact Info</h3>
                     <ul class="list-unstyled">
                         <li class="address">King Mongkut's University of Technology North Bangkok (KMUTNB), 1518 ถนน ​ประชา​ราษฎร์​1 Wong Sawang, Bang Sue, Bangkok 10800</li>
-                        <li class="phone"><a href="tel://23923929210">+66 95 569 1438</a></li>
+                        <li class="phone"><a href="tel://66955691438">+66 95 569 1438</a></li>
                         <li class="email">s6404062610219@email.kmutnb.ac.th</li>
                         <li class="email">s6404062610391@email.kmutnb.ac.th</li>
                         <li class="email">s6404062610456@email.kmutnb.ac.th</li>
@@ -35,7 +35,7 @@
                     <script>
                         document.write(new Date().getFullYear());
                     </script> All rights reserved | This website was made
-                    with by <a href="https://md-taha-ahmed.github.io/Portfolio-website/" target="_blank" class="text-primary">Mentos Pharmacy</a>
+                    with by <a href="https://github.com/skyconnor30/Mentos-Pharmacy target="_blank" class="text-primary">Mentos Pharmacy</a>
                 </p>
             </div>
 

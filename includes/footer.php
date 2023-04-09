@@ -51,7 +51,7 @@
                     <script>
                         document.write(new Date().getFullYear());
                     </script> All rights reserved | This website was made
-                    with by <a href="https://md-taha-ahmed.github.io/Portfolio-website/" target="_blank" class="text-primary">Mentos Pharmacy</a>
+                    with by <a href="https://github.com/skyconnor30/Mentos-Pharmacy" target="_blank" class="text-primary">Mentos Pharmacy</a>
                 </p>
             </div>
 

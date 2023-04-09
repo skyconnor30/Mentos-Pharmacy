@@ -166,16 +166,16 @@ include "includes/head.php"
 
               <div class="text-black" style="font-size:15pt">
                 <blockquote>
-                  <img src="images/p1.jpg" alt="Image" class="img-fluid w-25 mb-4 rounded-circle " style="margin-left: auto;margin-right: auto;">
-                  <p>&ldquo;ดีเยี่ยม&rdquo;</p>
+                  <img src="images/person1.jpg" alt="Image" class="img-fluid w-25 mb-4 rounded-circle " style="margin-left: auto;margin-right: auto;">
+                  <p>&ldquo;ตัวยาราคาไม่แรงมาก <br>มีสินค้าให้เลือกหลากหลาย.&rdquo;</p>
                 </blockquote>
 
                 <p>&mdash; Korn</p>
               </div>
               <div class="text-black" style="font-size:15pt">
                 <blockquote>
-                  <img src="images/p2.jpg" alt="Image" class="img-fluid w-25 mb-4 rounded-circle" style="margin-left: auto;margin-right: auto;">
-                  <p>&ldquo;ดีเยี่ยม&rdquo;</p>
+                  <img src="images/person2.jpg" alt="Image" class="img-fluid w-25 mb-4 rounded-circle" style="margin-left: auto;margin-right: auto;">
+                  <p>&ldquo;สุดยอดครับสินค้าดีมีมาตรฐาน ราคาถูก.&rdquo;</p>
                 </blockquote>
 
                 <p>&mdash; Pang</p>
@@ -183,17 +183,17 @@ include "includes/head.php"
 
               <div class="text-black" style="font-size:15pt">
                 <blockquote>
-                  <img src="images/p3.jpg" alt="Image" class="img-fluid w-25 mb-4 rounded-circle" style="margin-left: auto;margin-right: auto;">
-                  <p>&ldquo;ดีเยี่ยม&rdquo;</p>
+                  <img src="images/person3.jpg" alt="Image" class="img-fluid w-25 mb-4 rounded-circle" style="margin-left: auto;margin-right: auto;">
+                  <p>&ldquo;เว็บมีคุณภาพ ข้อมูลถูกต้อง รวดเร็ว <br>โคตรแจ่ม.&rdquo;</p>
                 </blockquote>
 
-                <p>&mdash; Jedi</p>
+                <p>&mdash; Arm</p>
               </div>
 
               <div class="text-black" style="font-size:15pt">
                 <blockquote>
-                  <img src="images/p4.jpg" alt="Image" class="img-fluid w-25 mb-4 rounded-circle" style="margin-left: auto;margin-right: auto;">
-                  <p>&ldquo;ดีเยี่ยม&rdquo;</p>
+                  <img src="images/person4.jpg" alt="Image" class="img-fluid w-25 mb-4 rounded-circle" style="margin-left: auto;margin-right: auto;">
+                  <p>&ldquo;เว็บสบายตามาก สะดวกสบายดีมาก.&rdquo;</p>
                 </blockquote>
 
                 <p>&mdash; Pee</p>
@@ -201,11 +201,11 @@ include "includes/head.php"
 
               <div class="text-black" style="font-size:15pt">
                 <blockquote>
-                  <img src="images/p5.jpg" alt="Image" class="img-fluid w-25 mb-4 rounded-circle" style="margin-left: auto;margin-right: auto;">
-                  <p>&ldquo;ดีเยี่ยม&rdquo;</p>
+                  <img src="images/person5.jpg" alt="Image" class="img-fluid w-25 mb-4 rounded-circle" style="margin-left: auto;margin-right: auto;">
+                  <p>&ldquo;มียาให้เลือกเยอะมาก ราคาถูก ใช้งานง่าย.&rdquo;</p>
                 </blockquote>
 
-                <p>&mdash; New</p>
+                <p>&mdash; Peem</p>
               </div>
 
             </div>
